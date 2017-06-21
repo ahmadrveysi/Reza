@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is  a test file
 secend line
 this is test for repo
+=======
+this is  a test file and test for repo
+>>>>>>> b1
